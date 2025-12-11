@@ -10,12 +10,12 @@ required_once "./include/html/header.php";
 <main>
     <div class="container px-0">
         <div class="row g-0">
-            <div class="col-12 p-3">
+            <div class="col-12 p-3 text-center">
                 <h1 class="mb-0">
                     <?php echo $title; ?>
                 </h1>
             </div>
-            <div class="col-12 p-3">
+            <div class="col-12 p-3 text-center">
                 <p class="mb-0">
                     <?php echo $description; ?>
                 </p>
