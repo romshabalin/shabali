@@ -15,7 +15,7 @@
     <div class="container-fluid px-0">
         <div class="rom g-0">
             <div class="col-12 p-3">
-                <p class="mb-0">
+                <p class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     <a href="/" class="text-dark text-decoration-none">
                         shabali
                     </a>
