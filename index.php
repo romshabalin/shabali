@@ -6,7 +6,7 @@ $canonical = "/";
 $h1 = "Место для тестирования новых идей";
 $p = "Сайт представляет собой экспериментальную площадку с набором различных концепций и способов их реализации. Представлен ход экспериментов, а также текущие наработки. Материал предназначен исключительно для наблюдения за процессом.";
 
-required_once "./include/html/header.php";
+required_once './include/html/header.php';
 
 ?>
 <main>
@@ -27,6 +27,6 @@ required_once "./include/html/header.php";
 </main>
 <?php
 
-required_once "./include/html/footer.php";
+required_once './include/html/footer.php';
 
 ?>
