@@ -1,9 +1,9 @@
 <?php
 
-$title = "";
+$title = "Образование";
 $description = "";
 $canonical = "/a/education/";
-$h1 = "";
+$h1 = "Образование";
 $p = "";
 
 require_once './../../include/html/header.php';
