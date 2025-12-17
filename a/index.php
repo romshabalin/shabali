@@ -1,9 +1,9 @@
 <?php
 
-$title = "";
+$title = "Экспериментальный раздел";
 $description = "";
 $canonical = "/a/";
-$h1 = "";
+$h1 = "Экспериментальный раздел";
 $p = "";
 
 require_once './../include/html/header.php';
