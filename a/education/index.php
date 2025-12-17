@@ -37,9 +37,14 @@ require_once './../../include/html/header.php';
                 </h3>
             </div>
             <div class="">
-                <h3 class="">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
                     Высшее образование
                 </h3>
+            </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    См. также
+                </h2>
             </div>
         </div>
     </div>
