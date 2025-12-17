@@ -1,10 +1,10 @@
 <?php
 
 $title = "Образование";
-$description = "";
+$description = "Фундамент для самореализации";
 $canonical = "/a/education/";
 $h1 = "Образование";
-$p = "";
+$p = "Фундамент для самореализации";
 
 require_once './../../include/html/header.php';
 
