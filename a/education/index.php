@@ -22,6 +22,25 @@ require_once './../../include/html/header.php';
                     <?php echo $p; ?>
                 </p>
             </div>
+            <div class="">
+                <h2 class="">
+                </h2>
+            </div>
+            <div class="">
+                <h3 class="">
+                    Общее образование
+                </h3>
+            </div>
+            <div class="">
+                <h3 class="">
+                    Среднее образование
+                </h3>
+            </div>
+            <div class="">
+                <h3 class="">
+                    Высшее образование
+                </h3>
+            </div>
         </div>
     </div>
 </main>
