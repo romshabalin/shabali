@@ -24,22 +24,18 @@ require_once './../include/html/header.php';
             </div>
             <div class="">
                 <h2 class="">
+                    Общее образование
                 </h2>
             </div>
             <div class="">
-                <h3 class="">
-                    Общее образование
-                </h3>
-            </div>
-            <div class="">
-                <h3 class="">
+                <h2 class="">
                     Среднее образование
-                </h3>
+                </h2>
             </div>
             <div class="">
-                <h3 class="">
+                <h2 class="">
                     Высшее образование
-                </h3>
+                </h2>
             </div>
             <div class="">
                 <h2 class="">
@@ -53,36 +49,27 @@ require_once './../include/html/header.php';
             </div>
             <div class="">
                 <p class="">
-                </p>
-            </div>
-            <div class="">
-                <p class="">
+                    Фундаментальное бумажное образование (Fundamental Paper Education, сокращённо FPE) - анимационный веб-сериал на YouTube, созданный автором Kaaatie.
                 </p>
             </div>
             <div class="">
                 <h4 class="">
-                    Фанфики бумажное образование
+                    Фанфики - Бумажное образование (FPE - фанфики)
                 </h4>
             </div>
             <div class="">
                 <p class="">
-                </p>
-            </div>
-            <div class="">
-                <p class="">
+                    Фанфики по вселенной - Фундаментальное бумажное образование, можно найти на нескольких платформах.
                 </p>
             </div>
             <div class="">
                 <h5 class="">
-                    Фанфик по бумажному образование мисс циркуль и Эбии
+                    Фанфик по Бумажному образованию мисс Циркуль и Эбии
                 </h5>
             </div>
             <div class="">
                 <p class="">
-                </p>
-            </div>
-            <div class="">
-                <p class="">
+                    Фанфик - Неожиданное открытие.
                 </p>
             </div>
         </div>
