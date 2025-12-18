@@ -1,10 +1,10 @@
 <?php
 
 $title = "Образование";
-$description = "";
+$description = "Фундамент для самореализации.";
 $canonical = "/education/";
 $h1 = "Образование";
-$p = "";
+$p = "Фундамент для самореализации.";
 
 require_once './../include/html/header.php';
 
@@ -22,53 +22,58 @@ require_once './../include/html/header.php';
                     <?php echo $p; ?>
                 </p>
             </div>
-            <div class="">
-                <h2 class="">
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Виды образования
+                </h2>
+            </div>
+            <div class="col-12 p-3">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
                     Общее образование
-                </h2>
+                </h3>
             </div>
-            <div class="">
-                <h2 class="">
+            <div class="col-12 p-3">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
                     Среднее образование
-                </h2>
+                </h3>
             </div>
-            <div class="">
-                <h2 class="">
+            <div class="col-12 p-3">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
                     Высшее образование
-                </h2>
+                </h3>
             </div>
-            <div class="">
-                <h2 class="">
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
                     См. также
                 </h2>
             </div>
-            <div class="">
-                <h3 class=""><!-- Образование -->
+            <div class="col-12 p-3">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark"><!-- Образование -->
                     Бумажное образование
                 </h3>
             </div>
-            <div class="">
-                <p class="">
+            <div class="col-12 p-3">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
                     Фундаментальное бумажное образование (Fundamental Paper Education, сокращённо FPE) - анимационный веб-сериал на YouTube, созданный автором Kaaatie.
                 </p>
             </div>
-            <div class="">
-                <h4 class="">
+            <div class="col-12 p-3">
+                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
                     Фанфики - Бумажное образование (FPE - фанфики)
                 </h4>
             </div>
-            <div class="">
-                <p class="">
+            <div class="col-12 p-3">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
                     Фанфики по вселенной - Фундаментальное бумажное образование, можно найти на нескольких платформах.
                 </p>
             </div>
-            <div class="">
-                <h5 class="">
+            <div class="col-12 p-3">
+                <h5 class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     Фанфик по Бумажному образованию мисс Циркуль и Эбии
                 </h5>
             </div>
-            <div class="">
-                <p class="">
+            <div class="col-12 p-3">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
                     Фанфик - Неожиданное открытие.
                 </p>
             </div>
