@@ -28,20 +28,62 @@ require_once './../include/html/header.php';
             </div>
             <div class="">
                 <h3 class="">
+                    Общее образование
                 </h3>
             </div>
             <div class="">
                 <h3 class="">
+                    Среднее образование
                 </h3>
             </div>
             <div class="">
                 <h3 class="">
+                    Высшее образование
                 </h3>
             </div>
             <div class="">
                 <h2 class="">
                     См. также
                 </h2>
+            </div>
+            <div class="">
+                <h3 class=""><!-- Образование -->
+                    Бумажное образование
+                </h3>
+            </div>
+            <div class="">
+                <p class="">
+                </p>
+            </div>
+            <div class="">
+                <p class="">
+                </p>
+            </div>
+            <div class="">
+                <h4 class="">
+                    Фанфики бумажное образование
+                </h4>
+            </div>
+            <div class="">
+                <p class="">
+                </p>
+            </div>
+            <div class="">
+                <p class="">
+                </p>
+            </div>
+            <div class="">
+                <h5 class="">
+                    Фанфик по бумажному образование мисс циркуль и Эбии
+                </h5>
+            </div>
+            <div class="">
+                <p class="">
+                </p>
+            </div>
+            <div class="">
+                <p class="">
+                </p>
             </div>
         </div>
     </div>
