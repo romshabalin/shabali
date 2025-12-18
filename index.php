@@ -24,13 +24,10 @@ require_once './include/html/header.php';
             </div>
             <div class="col-12 p-3">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
-                    <a href="/a/" class="text-dark text-decoration-none">
+                    <a href="/education/" class="text-dark text-decoration-none">
+                        Образование
                     </a>
                 </h2>
-            </div>
-            <div class="col-12 p-3">
-                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                </p>
             </div>
         </div>
     </div>
