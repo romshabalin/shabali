@@ -29,6 +29,11 @@ require_once './include/html/header.php';
                     </a>
                 </h2>
             </div>
+            <div class="col-12 p-3">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Фундамент для самореализации.
+                </p>
+            </div>
         </div>
     </div>
 </main>
