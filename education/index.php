@@ -22,6 +22,46 @@ require_once './../include/html/header.php';
                     <?php echo $p; ?>
                 </p>
             </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Общее образование
+                </h2>
+            </div>
+            <div class="col-12 p-3">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Включает четыре уровня.
+                </p>
+            </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Профессиональное образование
+                </h2>
+            </div>
+            <div class="col-12 p-3">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Включает два уровня.
+                </p>
+            </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Дополнительное образование
+                </h2>
+            </div>
+            <div class="col-12 p-3">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Включает два вида.
+                </p>
+            </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Профессиональное обучение
+                </h2>
+            </div>
+            <div class="col-12 p-3">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Обучение технике пожарной безопасности и т. п.
+                </p>
+            </div>
         </div>
     </div>
 </main>
