@@ -34,6 +34,16 @@ require_once './include/html/header.php';
                     Фундамент для самореализации.
                 </p>
             </div>
+            <div class="col-12 p-3 pb-2">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Карьера
+                </h2>
+            </div>
+            <div class="col-12 p-3 pt-2">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Самореализация.
+                </p>
+            </div>
         </div>
     </div>
 </main>
