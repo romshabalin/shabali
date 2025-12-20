@@ -54,7 +54,7 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3 pt-2">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                    1-4 класс школы.
+                    1&#8211;4 класс школы.
                 </p>
             </div>
             <div class="col-12 p-3 pb-2">
@@ -64,7 +64,7 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3 pt-2">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                    5-9 класс школы.
+                    5&#8211;9 класс школы.
                 </p>
             </div>
             <div class="col-12 p-3 pb-2">
@@ -74,7 +74,7 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3 pt-2">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                    10-11 класс школы.
+                    10&#8211;11 класс школы.
                 </p>
             </div>
             <div class="col-12 p-3 pb-2">
