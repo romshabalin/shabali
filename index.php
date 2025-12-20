@@ -39,7 +39,7 @@ require_once './include/html/header.php';
                     Карьера
                 </h2>
             </div>
-            <div class="col-12 p-3 pt1">
+            <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
                     Самореализация.
                 </p>
