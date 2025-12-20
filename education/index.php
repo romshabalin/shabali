@@ -37,25 +37,45 @@ require_once './../include/html/header.php';
                     Включает четыре уровня.
                 </p>
             </div>
-            <div class="col-12 p-3 ">
+            <div class="col-12 p-3 pb-2">
                 <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
                     Дошкольное образование
                 </h4>
             </div>
-            <div class="col-12 p-3">
+            <div class="col-12 p-3 pt-2">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Детский сад, центр развития.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-2">
                 <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
                     Начальное общее образование
                 </h4>
             </div>
-            <div class="col-12 p-3">
+            <div class="col-12 p-3 pt-2">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    1-4 класс школы.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-2">
                 <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
                     Основное общее образование
                 </h4>
             </div>
-            <div class="col-12 p-3">
+            <div class="col-12 p-3 pt-2">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    5-9 класс школы.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-2">
                 <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
                     Среднее общее образование
                 </h4>
+            </div>
+            <div class="col-12 p-3 pt-2">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    10-11 класс школы.
+                </p>
             </div>
             <div class="col-12 p-3 pb-2">
                 <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
