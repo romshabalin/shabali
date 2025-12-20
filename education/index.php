@@ -22,10 +22,15 @@ require_once './../include/html/header.php';
                     <?php echo $p; ?>
                 </p>
             </div>
-            <div class="col-12 p-3 pb-2">
+            <div class="col-12 p-3">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
-                    Общее образование
+                    Виды образования
                 </h2>
+            </div>
+            <div class="col-12 p-3 pb-2">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                    Общее образование
+                </h3>
             </div>
             <div class="col-12 p-3 pt-2">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
@@ -33,29 +38,29 @@ require_once './../include/html/header.php';
                 </p>
             </div>
             <div class="col-12 p-3 ">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
                     Дошкольное образование
-                </h3>
+                </h4>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
                     Начальное общее образование
-                </h3>
+                </h4>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
                     Основное общее образование
-                </h3>
+                </h4>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
                     Среднее общее образование
-                </h3>
+                </h4>
             </div>
             <div class="col-12 p-3 pb-2">
-                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
                     Профессиональное образование
-                </h2>
+                </h3>
             </div>
             <div class="col-12 p-3 pt-2">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
@@ -63,9 +68,9 @@ require_once './../include/html/header.php';
                 </p>
             </div>
             <div class="col-12 p-3 pb-2">
-                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
                     Дополнительное образование
-                </h2>
+                </h3>
             </div>
             <div class="col-12 p-3 pt-2">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
@@ -73,13 +78,25 @@ require_once './../include/html/header.php';
                 </p>
             </div>
             <div class="col-12 p-3 pb-2">
-                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
                     Профессиональное обучение
-                </h2>
+                </h3>
             </div>
             <div class="col-12 p-3 pt-2">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
                     Обучение технике пожарной безопасности и т. п.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-2">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Минобрнауки России (Министерство науки и высшего образования Российской Федерации)
+                </h2>
+            </div>
+            <div class="col-12 p-3 pt-2">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    <a href="https://minobrnauki.gov.ru/" class="text-dark text-decoration-none">
+                        minobrnauki.gov.ru
+                    </a>
                 </p>
             </div>
         </div>
