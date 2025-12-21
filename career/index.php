@@ -1,10 +1,10 @@
 <?php
 
-$title = "";
-$description = "";
+$title = "Карьера";
+$description = "Самореализация.";
 $canonical = "/career/";
-$h1 = "";
-$p = "";
+$h1 = "Карьера";
+$p = "Самореализация.";
 
 require_once './../include/html/header.php';
 
