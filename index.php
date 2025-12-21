@@ -36,12 +36,26 @@ require_once './include/html/header.php';
             </div>
             <div class="col-12 p-3 pb-1">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
-                    Карьера
+                    <a href="/career/" class="text-dark text-decoration-none">
+                        Карьера
+                    </a>
                 </h2>
             </div>
             <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
                     Самореализация.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-1">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    <a href="/hobby/" class="text-dark text-decoration-none">
+                        Хобби
+                    </a>
+                </h2>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Отдых.
                 </p>
             </div>
         </div>
