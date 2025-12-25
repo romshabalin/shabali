@@ -22,6 +22,16 @@ require_once './../include/html/header.php';
                     <?php echo $p; ?>
                 </p>
             </div>
+            <div class="col-12 p-3 pb-1">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Путешествия
+                </h2>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Отдых, впечатления и новые знания о мире и о себе.
+                </p>
+            </div>
         </div>
     </div>
 </main>
