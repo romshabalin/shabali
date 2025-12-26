@@ -88,6 +88,26 @@ require_once './../include/html/header.php';
                 </p>
             </div>
             <div class="col-12 p-3 pb-1">
+                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
+                    Среднее профессиональное образование (СПО)
+                </h4>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Колледж, техникум.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-1">
+                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
+                    Высшее образование
+                </h4>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Институт.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-1">
                 <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
                     Дополнительное образование
                 </h3>
@@ -95,6 +115,46 @@ require_once './../include/html/header.php';
             <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
                     Включает два вида.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-1">
+                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
+                    Дополнительное образование детей и взрослых
+                </h4>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Творческие кружки, спортивные секции, языковые курсы и т. п.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-1">
+                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
+                    Дополнительное профессиональное образование (ДПО)
+                </h4>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Только для имеющих или получающих СПО или высшее образование. Включает два вида.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-1">
+                <h5 class="mb-0 fs-5 fw-medium lh-sm text-dark">
+                    Программа повышения квалификации
+                </h5>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Углубление знаний в своей профессии.
+                </p>
+            </div>
+            <div class="col-12 p-3 pb-1">
+                <h5 class="mb-0 fs-5 fw-medium lh-sm text-dark">
+                    Программа профессиональной переподготовки
+                </h5>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    Смена квалификации.
                 </p>
             </div>
             <div class="col-12 p-3 pb-1">
