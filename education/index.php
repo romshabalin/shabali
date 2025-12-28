@@ -22,10 +22,22 @@ require_once './../include/html/header.php';
                     <?php echo $p; ?>
                 </p>
             </div>
-            <div class="col-12 p-3">
+            <div class="col-12 p-3 pb-1">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
-                    Виды образования
+                    Виды образования в России
                 </h2>
+            </div>
+            <div class="col-12 p-3 pt-1 pb-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    В соответствии с Федеральным законом от 29.12.2012 № 273-ФЗ &#171;Об образовании в Российской Федерации&#187;, система образования в России подразделяется на четыре вида.
+                </p>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    <a href="https://www.consultant.ru/document/cons_doc_LAW_140174/" class="text-dark text-decoration-none">
+                        www.consultant.ru
+                    </a>
+                </p>
             </div>
             <div class="col-12 p-3 pb-1">
                 <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
@@ -167,10 +179,15 @@ require_once './../include/html/header.php';
                     Водитель, маляр, косметолог, мастер маникюра и педикюра, повар, официант, архивариус, страховой агент, рекламный агент, санитар, обучение технике пожарной безопасности и т. п.
                 </p>
             </div>
-            <div class="col-12 p-3 pb-1">
+            <div class="col-12 p-3">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
-                    Минобрнауки России (Министерство науки и высшего образования Российской Федерации)
+                    См. также
                 </h2>
+            </div>
+            <div class="col-12 p-3 pb-1">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                    Минобрнауки России (Министерство науки и высшего образования Российской Федерации)
+                </h3>
             </div>
             <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
