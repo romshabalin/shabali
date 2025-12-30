@@ -32,6 +32,11 @@ require_once './../include/html/header.php';
                     Информационные технологии продолжают развиваться, предлагая новые возможности для карьеры.
                 </p>
             </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Сфера здравоохранения
+                </h2>
+            </div>
         </div>
     </div>
 </main>
