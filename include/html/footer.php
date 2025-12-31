@@ -9,7 +9,7 @@
             </div>
             <div class="col-12 p-3">
                 <p class="mb-0 fs-6 fw-normal lh-sm text-dark">
-                    &#169;&#160;2025&#8211;<?php date_default_timezone_set('Europe/Amsterdam'); echo date('H'); ?>&#160;shabali
+                    &#169;&#160;2025&#8211;<?php date_default_timezone_set('Europe/Moscow'); echo date('H'); ?>&#160;shabali
                 </p>
             </div>
         </div>
