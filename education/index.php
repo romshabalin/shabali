@@ -116,8 +116,23 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                    Институт, академия или университет.
+                    Институт, академия или университет. Включает три уровня.
                 </p>
+            </div>
+            <div class="col-12 p-3">
+                <h5 class="mb-0 fs-5 fw-medium lh-sm text-dark">
+                    Базовое высшее образования (БВО)
+                </h5>
+            </div>
+            <div class="col-12 p-3">
+                <h5 class="mb-0 fs-5 fw-medium lh-sm text-dark">
+                    Специализированное высшее образования (СПВО)
+                </h5>
+            </div>
+            <div class="col-12 p-3">
+                <h5 class="mb-0 fs-5 fw-medium lh-sm text-dark">
+                    Аспирантура
+                </h5>
             </div>
             <div class="col-12 p-3 pb-1">
                 <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
@@ -146,7 +161,7 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                    Только для имеющих или получающих СПО или высшее образование. Включает два вида.
+                    Только для имеющих или получающих среднее профессиональное образование (СПО) или высшее образование. Включает два вида.
                 </p>
             </div>
             <div class="col-12 p-3 pb-1">
