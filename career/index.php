@@ -24,13 +24,18 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
-                    Сфера здравоохранения
+                    Ведущие глобальные сферы деятельности человека
                 </h2>
             </div>
+            <div class="col-12 p-3">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                    Здравоохранение
+                </h3>
+            </div>
             <div class="col-12 p-3 pb-1">
-                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
-                    IT-сфера
-                </h2>
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                    IT
+                </h3>
             </div>
             <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
