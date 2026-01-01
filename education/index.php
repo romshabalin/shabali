@@ -196,6 +196,18 @@ require_once './../include/html/header.php';
                     </a>
                 </p>
             </div>
+            <div class="col-12 p-3 pb-1">
+                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                    КонсультантПлюс
+                </h3>
+            </div>
+            <div class="col-12 p-3 pt-1">
+                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
+                    <a href="https://www.consultant.ru/" class="text-dark text-decoration-none">
+                        www.consultant.ru
+                    </a>
+                </p>
+            </div>
         </div>
     </div>
 </main>
