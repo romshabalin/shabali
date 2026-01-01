@@ -56,7 +56,7 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                    Детский сад, центр развития.
+                    Детский сад или центр развития.
                 </p>
             </div>
             <div class="col-12 p-3 pb-1">
@@ -106,7 +106,7 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                    Колледж, техникум.
+                    Колледж или техникум.
                 </p>
             </div>
             <div class="col-12 p-3 pb-1">
@@ -116,7 +116,7 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3 pt-1">
                 <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                    Институт.
+                    Институт, академия или университет.
                 </p>
             </div>
             <div class="col-12 p-3 pb-1">
