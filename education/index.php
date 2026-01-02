@@ -28,22 +28,22 @@ require_once './../include/html/header.php';
                 </h2>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     Дошкольное образование
                 </h3>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     Начальное общее образование
                 </h3>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     Основное общее образование
                 </h3>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     Среднее общее образование
                 </h3>
             </div>
@@ -53,12 +53,12 @@ require_once './../include/html/header.php';
                 </h2>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     Среднее профессиональное образование (СПО)
                 </h3>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     Высшее образование
                 </h3>
             </div>
@@ -68,12 +68,12 @@ require_once './../include/html/header.php';
                 </h2>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     Дополнительное образование детей и взрослых
                 </h3>
             </div>
             <div class="col-12 p-3">
-                <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
+                <h3 class="mb-0 fs-5 fw-medium lh-sm text-dark">
                     Дополнительное профессиональное образование (ДПО)
                 </h3>
             </div>
