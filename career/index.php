@@ -27,15 +27,10 @@ require_once './../include/html/header.php';
                     Здравоохранение
                 </h2>
             </div>
-            <div class="col-12 p-3 pb-1">
+            <div class="col-12 p-3">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
                     Информационные технологии (ИТ)
                 </h2>
-            </div>
-            <div class="col-12 p-3 pt-1">
-                <p class="mb-0 fs-6 fw-normal lh-base text-dark">
-                    Информационные технологии продолжают развиваться, предлагая новые возможности для карьеры.
-                </p>
             </div>
         </div>
     </div>
