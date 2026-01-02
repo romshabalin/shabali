@@ -63,21 +63,6 @@ require_once './../include/html/header.php';
                 </h3>
             </div>
             <div class="col-12 p-3">
-                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
-                    Базовое высшее образования (БВО)
-                </h4>
-            </div>
-            <div class="col-12 p-3">
-                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
-                    Специализированное высшее образования (СПВО)
-                </h4>
-            </div>
-            <div class="col-12 p-3">
-                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
-                    Аспирантура
-                </h4>
-            </div>
-            <div class="col-12 p-3">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
                     Дополнительное образование
                 </h2>
@@ -91,16 +76,6 @@ require_once './../include/html/header.php';
                 <h3 class="mb-0 fs-3 fw-medium lh-sm text-dark">
                     Дополнительное профессиональное образование (ДПО)
                 </h3>
-            </div>
-            <div class="col-12 p-3">
-                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
-                    Программа повышения квалификации
-                </h4>
-            </div>
-            <div class="col-12 p-3">
-                <h4 class="mb-0 fs-4 fw-medium lh-sm text-dark">
-                    Программа профессиональной переподготовки
-                </h4>
             </div>
             <div class="col-12 p-3">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
