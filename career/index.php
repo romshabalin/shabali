@@ -24,12 +24,32 @@ require_once './../include/html/header.php';
             </div>
             <div class="col-12 p-3">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
-                    Медицина
+                    Финансы и банковское дело
                 </h2>
             </div>
             <div class="col-12 p-3">
                 <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
-                    Образование
+                    Здравоохранение
+                </h2>
+            </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Образование и наука
+                </h2>
+            </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Производство и инженерия
+                </h2>
+            </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Строительство и архитектура
+                </h2>
+            </div>
+            <div class="col-12 p-3">
+                <h2 class="mb-0 fs-2 fw-medium lh-sm text-dark">
+                    Торговля и ритейл
                 </h2>
             </div>
             <div class="col-12 p-3">
