@@ -1,3 +1,6 @@
+        </div>
+    </div>
+</main>
 <footer>
     <div class="container px-0">
         <div class="rom g-0">
