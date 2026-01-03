@@ -1,6 +1,3 @@
-        </div>
-    </div>
-</main>
 <footer>
     <div class="container px-0">
         <div class="rom g-0">
@@ -14,6 +11,12 @@
                 <p class="mb-0 fs-6 fw-normal lh-sm text-dark">
                     &#169;&#160;2025&#8211;<?php date_default_timezone_set('Europe/Moscow'); echo date('Y'); ?>&#160;shabali
                 </p>
+            </div>
+            <div class="col-12 p-3">
+            </div>
+            <div class="col-12 p-3">
+            </div>
+            <div class="col-12 p-3">
             </div>
         </div>
     </div>
